@@ -22,3 +22,11 @@ h1{
 .title.caprese{
     background-color: green;
 }
+
+.list{
+    text-align: left;
+}
+
+p strong{
+    background-color: red;
+}
