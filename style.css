@@ -1,0 +1,24 @@
+*{
+    text-align: center;
+}
+
+h1{
+    background-color: deepskyblue;
+}
+
+.title{
+    color: aliceblue;
+    font-size: 60px;
+}
+
+.title.patty{
+    background-color: yellow;
+}
+
+.title.stirFry{
+    background-color: orange;
+}
+
+.title.caprese{
+    background-color: green;
+}
